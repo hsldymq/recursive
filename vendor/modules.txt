@@ -1,0 +1,27 @@
+# github.com/gopherjs/gopherjs v0.0.0-20181017120253-0766667cb4d1
+github.com/gopherjs/gopherjs/js
+# github.com/jtolds/gls v4.20.0+incompatible
+github.com/jtolds/gls
+# github.com/smartystreets/assertions v0.0.0-20180927180507-b2de0cb4f26d
+github.com/smartystreets/assertions
+github.com/smartystreets/assertions/internal/go-render/render
+github.com/smartystreets/assertions/internal/oglematchers
+# github.com/smartystreets/goconvey v0.0.0-20190330032615-68dc04aab96a
+github.com/smartystreets/goconvey
+github.com/smartystreets/goconvey/web/server/api
+github.com/smartystreets/goconvey/web/server/contract
+github.com/smartystreets/goconvey/web/server/executor
+github.com/smartystreets/goconvey/web/server/messaging
+github.com/smartystreets/goconvey/web/server/parser
+github.com/smartystreets/goconvey/web/server/system
+github.com/smartystreets/goconvey/web/server/watch
+github.com/smartystreets/goconvey/convey/reporting
+github.com/smartystreets/goconvey/convey/gotest
+# golang.org/x/tools v0.0.0-20190328211700-ab21143f2384
+golang.org/x/tools/go/packages
+golang.org/x/tools/go/gcexportdata
+golang.org/x/tools/go/internal/packagesdriver
+golang.org/x/tools/internal/gopathwalk
+golang.org/x/tools/internal/semver
+golang.org/x/tools/go/internal/gcimporter
+golang.org/x/tools/internal/fastwalk
